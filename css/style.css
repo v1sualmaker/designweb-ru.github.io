@@ -1,0 +1,44 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+
+}
+
+html {
+  background: url(https://i.imgur.com/AUYyz8X.png) no-repeat center center;
+  min-height: 100%;
+  background-size: cover;
+
+}
+
+a { font-family: Akzidenz-Grotesk Pro Light Ext;
+  position: absolute;
+  width: 119px;
+  height: 40px;
+  left: 1491px;
+  top: 632px;
+
+}
+h1 { font-family: Akzidenz-Grotesk Pro Light Ext; 
+  font-size: 60px;
+  position: absolute;
+  width: 1464.54px;
+  height: 113px;
+  left: 315px;
+  top: 232px;
+
+}
+h3 { font-family: Akzidenz-Grotesk Pro Light Ext;
+    position: 20px;
+    width: 700.10px;
+    top: 31px;
+
+}
+h1 { color: white;}
+h3 { color: white;}
+a { color: white;}
+
+img { pointer-events: none; }
+
+.center1 { margin: 50% 0%; }
